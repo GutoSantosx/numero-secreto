@@ -12,4 +12,4 @@
 
 ## Código omitido.
 
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+![Snake animation](https://github.com/gutosantosx/gutosantosx/blob/output/github-contribution-grid-snake.svg)
