@@ -11,5 +11,3 @@
 </div>
 
 ## Código omitido.
-
-![Snake animation](https://github.com/gutosantosx/gutosantosx/blob/output/github-contribution-grid-snake.svg)
